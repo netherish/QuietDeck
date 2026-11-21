@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuietDeck</string>
+    <string name="tile_label">QuietDeck</string>
+    <string name="tile_description">Toggle Do Not Disturb or open QuietDeck</string>
+</resources>

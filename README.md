@@ -18,6 +18,8 @@ Android's sound controls are split across Settings, the volume panel, Quick Sett
 
 It works as a normal installed app. It also makes sense as a preinstalled system app on a custom ROM because it uses only public Android APIs and needs no root.
 
+> [Download the latest APK](https://github.com/netherish/QuietDeck/releases/latest)
+
 ## Features
 
 - **Live DND dial** showing Off, Priority only, Alarms only, or Total silence.
